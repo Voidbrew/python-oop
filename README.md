@@ -1,4 +1,4 @@
-# Python OOP
+# Python Utils
 
 These scripts are useful in python and make your life a bit easier. I always upload some random scripts what can be useful for everyone.
 
