@@ -15,7 +15,7 @@ start_time = time.time()
 
 Singleton()
 for i in range(10000000):
-    Singleton.a = i
+    Singleton.printable = i
 Singleton().print()
 
 print(time.time()-start_time)
