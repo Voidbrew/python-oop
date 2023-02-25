@@ -9,7 +9,7 @@ class Singleton:
         cls.printable = 0
 
     def print(self):
-        return self.printable
+        return print(self.printable)
 
 start_time = time.time()
 
