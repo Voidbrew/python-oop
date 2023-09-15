@@ -1,5 +1,5 @@
 # Python Utils
 
-These scripts are useful in python and make your life a bit easier. I always upload some random scripts what can be useful for everyone.
+These random files are used in my Python projects. Feel free to use them.
 
 - singleton.py - Singleton pattern. I tried to make the most optimized variation. Replace the 'Singleton' with other class name what you like.
